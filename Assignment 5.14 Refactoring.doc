@@ -1,0 +1,4 @@
+Code refactoring is the process of taking existing code, reworking it so that it is much cleaner, simpler, and elegant. However, this process should not change the overall function of the program. The beginning and end products should remain the same regardless. It should improve the attribute of the program such as making more efficient, reduce possible undisovered bugs, and make it more understandable. The reason it would be more undertsandable is because complex blocks of code are usually broken down into smaller, more understandble sub parts. This could improve the long term maintainability of the program as a whole as new programmers join the team and review said code.
+
+
+
